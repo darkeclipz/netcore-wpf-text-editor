@@ -1,0 +1,17 @@
+c:\Users\Isomorphism\Documents\Repos\netcore-wpf\bin\Debug\netcoreapp3.0\netcore-wpf.exe
+C:\Users\Isomorphism\Documents\Repos\netcore-wpf\bin\Debug\netcoreapp3.0\netcore-wpf.deps.json
+C:\Users\Isomorphism\Documents\Repos\netcore-wpf\bin\Debug\netcoreapp3.0\netcore-wpf.runtimeconfig.json
+C:\Users\Isomorphism\Documents\Repos\netcore-wpf\bin\Debug\netcoreapp3.0\netcore-wpf.runtimeconfig.dev.json
+c:\Users\Isomorphism\Documents\Repos\netcore-wpf\bin\Debug\netcoreapp3.0\netcore-wpf.dll
+c:\Users\Isomorphism\Documents\Repos\netcore-wpf\bin\Debug\netcoreapp3.0\netcore-wpf.pdb
+c:\Users\Isomorphism\Documents\Repos\netcore-wpf\obj\Debug\netcoreapp3.0\netcore-wpf.csprojAssemblyReference.cache
+c:\Users\Isomorphism\Documents\Repos\netcore-wpf\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+c:\Users\Isomorphism\Documents\Repos\netcore-wpf\obj\Debug\netcoreapp3.0\App.g.cs
+c:\Users\Isomorphism\Documents\Repos\netcore-wpf\obj\Debug\netcoreapp3.0\netcore-wpf_MarkupCompile.cache
+c:\Users\Isomorphism\Documents\Repos\netcore-wpf\obj\Debug\netcoreapp3.0\netcore-wpf_MarkupCompile.lref
+c:\Users\Isomorphism\Documents\Repos\netcore-wpf\obj\Debug\netcoreapp3.0\MainWindow.baml
+c:\Users\Isomorphism\Documents\Repos\netcore-wpf\obj\Debug\netcoreapp3.0\netcore-wpf.g.resources
+c:\Users\Isomorphism\Documents\Repos\netcore-wpf\obj\Debug\netcoreapp3.0\netcore-wpf.AssemblyInfoInputs.cache
+c:\Users\Isomorphism\Documents\Repos\netcore-wpf\obj\Debug\netcoreapp3.0\netcore-wpf.AssemblyInfo.cs
+c:\Users\Isomorphism\Documents\Repos\netcore-wpf\obj\Debug\netcoreapp3.0\netcore-wpf.dll
+c:\Users\Isomorphism\Documents\Repos\netcore-wpf\obj\Debug\netcoreapp3.0\netcore-wpf.pdb

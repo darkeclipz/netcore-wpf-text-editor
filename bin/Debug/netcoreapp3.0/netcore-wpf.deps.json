@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "netcore-wpf/1.0.0": {
+        "runtime": {
+          "netcore-wpf.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "netcore-wpf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
