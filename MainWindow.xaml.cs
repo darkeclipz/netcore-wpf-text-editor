@@ -49,14 +49,24 @@ namespace netcore_wpf
 
         public MainWindow()
         {
-            this.WindowStyle = WindowStyle.ThreeDBorderWindow;
             InitializeComponent();
+            InitializeWindow();
             Grid grid = InitializeGrid();
             InitializeMenu(grid);
             InitializeStatusBar(grid);
             InitializeTree(grid);
             InitializeEditor(grid);
-        }    
+        }
+
+        private void InitializeWindow()
+        {
+            var directory = Directory.GetCurrentDirectory();
+            var iconPath = System.IO.Path.Join(directory, "icon.ico");
+            var iconUri = new Uri(iconPath, UriKind.Absolute);
+            this.Icon = BitmapFrame.Create(iconUri);
+            this.WindowStyle = WindowStyle.ThreeDBorderWindow;
+            this.Title = "Texty";
+        }
 
         private static void InitializeStatusBar(Grid grid)
         {
